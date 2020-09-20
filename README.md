@@ -36,11 +36,11 @@ app文件共享\Documents\___EXTEND_SummerPockets
 
 数据下载完成后，删除上面的配置，添加以下配置：
 
-http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/___DL.json https://od.lk/d/NzZfNzY5ODk2NDhf/___DL.json 302
+http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/___DL.json 302
 
-http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck https://od.lk/d/NzZfNzY5ODk2NDlf/Scene.pck 302
+http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck 302
 
-http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck.hash https://od.lk/d/NzZfNzY5ODk2NTBf/Scene.pck.hash 302
+http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck.hash 302
 
 重新启动游戏下载数据。
 
