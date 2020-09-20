@@ -21,9 +21,10 @@ app文件共享\Documents\___EXTEND_SummerPockets
 启动游戏下载数据，游戏就变成SPRB的内容了。
 
 **注意：**
- * 此操作无法恢复！而且会增加3GB以上的空间占用！  
- * 目前iOS无法解锁RB新增四线内容！  
- * 想要恢复必须删除app（卸载app不行）重装，会丢失存档！  
+ * 此操作无法恢复！而且会增加3GB以上的空间占用！
+ * 目前iOS无法解锁RB新增四线内容！
+ * 想要恢复必须删除app（卸载app不行）重装，会丢失存档！
+ 
 数据下载完成后，删除上面的配置，添加以下配置：  
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/___DL.json 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck 302  
