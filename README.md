@@ -78,6 +78,6 @@ EXACT:http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.i
  * 此方法要求每次启动游戏都要电脑开启Fiddler。此情况下手机可能无法正常上网。
  * 可以在使用此方法成功下载数据之后，把配置代理改回关闭。然后重新在梯子里配置前面一种方法：
  
-http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/___DL.json https://od.lk/d/NzZfNzY5ODk2NDhf/___DL.json 302
+http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/___DL.json 302
 
 仅添加这一条配置。之后只要启动游戏的时候挂着梯子就行了。
