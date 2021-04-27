@@ -8,12 +8,12 @@
 ## 使用方法：
 安卓系统直接将Scene.pck复制到___EXTEND_SummerPockets_rb替换即可。  
 
+越狱iOS系统将Scene.pck复制到：  
+app文件共享\Documents\___EXTEND_SummerPockets_rb
+
 **注意：**
  * 需要先正常下载完游戏数据后再替换！
- * 安卓RB只替换Scene.pck一个文件，其他文件是给iOS用的，不要替换！
-
-越狱iOS系统将___DL.json、Scene.pck、Scene.pck.hash三个文件复制到：  
-app文件共享\Documents\___EXTEND_SummerPockets_rb
+ * 只替换Scene.pck一个文件，其他文件是给未越狱iOS用的，不要替换！
 
 ## iOS反和谐：
 越狱系统直接把安卓数据包内的__g00_patch_002.pck替换到iOS数据包里即可
