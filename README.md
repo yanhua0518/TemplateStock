@@ -32,6 +32,9 @@ http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.r
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck.hash 302  
 重新启动游戏下载数据。
 
+**注意：**
+ * 使用此补丁，每次启动游戏时需要连着梯子，否则会恢复为日文版。
+
 ## 如果以上方法无法成功下载数据，可以用本地代理的方法：
 在电脑上安装Fiddler。  
 Tools-Options-Connections：  
