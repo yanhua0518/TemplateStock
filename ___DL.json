@@ -49,8 +49,8 @@
 					"in_file_name" : "Scene.pck",
 					"file_name" : "Scene.pck",
 					"version_code" : "1",
-					"file_size" : 24015794,
-					"md5" : "DA3EE384910FE4E6FF5F5019B3172F1D"
+					"file_size" : 24048491,
+					"md5" : "482F5FFC8DFC76D32A683FD135F08221"
 				},
 				{
 					"in_file_name" : "__bgm.pck",
@@ -65,6 +65,13 @@
 					"version_code" : "1",
 					"file_size" : 56500,
 					"md5" : "1D44422531B96D3759C24C33D51DC00E"
+				},
+				{
+					"in_file_name" : "__dat_patch_000.pck",
+					"file_name" : "__dat_patch_000.pck",
+					"version_code" : "1",
+					"file_size" : 56177,
+					"md5" : "8972AC046D0715709B32F07303CBC9CC"
 				},
 				{
 					"in_file_name" : "__g00.pck",
