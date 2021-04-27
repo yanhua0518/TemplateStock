@@ -7,23 +7,9 @@
 					"in_file_name" : "Scene.pck",
 					"file_name" : "Scene.pck",
 					"version_code" : "1",
-					"file_size" : 15475964,
-					"md5" : "0618F031B2AF81CF443E5B3BDAD54AA4"
+					"file_size" : 12314283,
+					"md5" : "C063BCD17B4DD2A5FAE29E0F748EB402"
 				},
-				{
-					"in_file_name" : "__g00_patch_000.pck",
-					"file_name" : "__g00_patch_000.pck",
-					"version_code" : "1",
-					"file_size" : 33434,
-					"md5" : "A347302A44BBEF1584EE8779FE8FB7D9"
-				},
-				{
-					"in_file_name" : "__gan_patch_000.pck",
-					"file_name" : "__gan_patch_000.pck",
-					"version_code" : "1",
-					"file_size" : 10343,
-					"md5" : "FB910DB9A7A7302E5FB5F1800782F9A5"
-				}
 			]
 		}
 	]
