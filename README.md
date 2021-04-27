@@ -20,7 +20,7 @@ app文件共享\Documents\___EXTEND_SummerPockets_rb
 
 未越狱系统下载数据前，在梯子（一般都是小火箭）的配置文件中添加“URL重写”：  
 ^http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/(.*) http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/$1 302  
-启动游戏下载数据，游戏就变成SPRB的内容了。
+已经下载过数据也可以，启动游戏会提示重新下载500MB+的数据。
 
 **注意：**
  * 此操作无法恢复！
