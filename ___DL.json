@@ -1,0 +1,135 @@
+{
+	"data_set" : [
+		{
+			"version_code" : 1,
+			"data" : [
+				{
+					"in_file_name" : "ED01.mp4",
+					"file_name" : "ED01.mp4",
+					"version_code" : "1",
+					"file_size" : 79080391,
+					"md5" : "E25A23967F81FDF68F43EBB643D33888"
+				},
+				{
+					"in_file_name" : "ED02.mp4",
+					"file_name" : "ED02.mp4",
+					"version_code" : "1",
+					"file_size" : 135992675,
+					"md5" : "CD7D8EC248305E21676F98E0DC80792D"
+				},
+				{
+					"in_file_name" : "ED03.mp4",
+					"file_name" : "ED03.mp4",
+					"version_code" : "1",
+					"file_size" : 99402595,
+					"md5" : "643F55C11133F94319940D0BE12FB645"
+				},
+				{
+					"in_file_name" : "Gameexe.dat",
+					"file_name" : "Gameexe.dat",
+					"version_code" : "1",
+					"file_size" : 5209,
+					"md5" : "1FC8DF1FB1C6E294F39FCD09CE92E0AC"
+				},
+				{
+					"in_file_name" : "OP00.mp4",
+					"file_name" : "OP00.mp4",
+					"version_code" : "1",
+					"file_size" : 46398418,
+					"md5" : "BED664C65B5037BE6C12F8D827AF0D0B"
+				},
+				{
+					"in_file_name" : "OP01.mp4",
+					"file_name" : "OP01.mp4",
+					"version_code" : "1",
+					"file_size" : 45756751,
+					"md5" : "3458C6682869C56F0A0D5A109841955C"
+				},
+				{
+					"in_file_name" : "Scene.pck",
+					"file_name" : "Scene.pck",
+					"version_code" : "1",
+					"file_size" : 24048491,
+					"md5" : "482F5FFC8DFC76D32A683FD135F08221"
+				},
+				{
+					"in_file_name" : "__bgm.pck",
+					"file_name" : "__bgm.pck",
+					"version_code" : "1",
+					"file_size" : 171203490,
+					"md5" : "32E2370DDEEDD629BA14CB3EC101C696"
+				},
+				{
+					"in_file_name" : "__dat.pck",
+					"file_name" : "__dat.pck",
+					"version_code" : "1",
+					"file_size" : 56500,
+					"md5" : "1D44422531B96D3759C24C33D51DC00E"
+				},
+				{
+					"in_file_name" : "__g00.pck",
+					"file_name" : "__g00.pck",
+					"version_code" : "1",
+					"file_size" : 270277088,
+					"md5" : "085FAA15E0A2949A8CA3C30380DD0FE0"
+				},
+				{
+					"in_file_name" : "__g00_patch_000.pck",
+					"file_name" : "__g00_patch_000.pck",
+					"version_code" : "1",
+					"file_size" : 33434,
+					"md5" : "A347302A44BBEF1584EE8779FE8FB7D9"
+				},
+				{
+					"in_file_name" : "__g00_patch_001.pck",
+					"file_name" : "__g00_patch_001.pck",
+					"version_code" : "1",
+					"file_size" : 179980013,
+					"md5" : "291DD59E4C2166D4F36E856F82274E87"
+				},
+				{
+					"in_file_name" : "__g00_patch_002.pck",
+					"file_name" : "__g00_patch_002.pck",
+					"version_code" : "1",
+					"file_size" : 320449801,
+					"md5" : "52761C11169CCBA9CEFFCA013EBC12F2"
+				},
+				{
+					"in_file_name" : "__g00_patch_003.pck",
+					"file_name" : "__g00_patch_003.pck",
+					"version_code" : "1",
+					"file_size" : 803457615,
+					"md5" : "0DF4006FD0083580A3E2339057949ADC"
+				},
+				{
+					"in_file_name" : "__gan.pck",
+					"file_name" : "__gan.pck",
+					"version_code" : "1",
+					"file_size" : 10343,
+					"md5" : "FB910DB9A7A7302E5FB5F1800782F9A5"
+				},
+				{
+					"in_file_name" : "__koe.pck",
+					"file_name" : "__koe.pck",
+					"version_code" : "1",
+					"file_size" : 1127470666,
+					"md5" : "B3DB8DB49E77FFA2413388FCF6F25536"
+				},
+				{
+					"in_file_name" : "__mov.pck",
+					"file_name" : "__mov.pck",
+					"version_code" : "1",
+					"file_size" : 34088238,
+					"md5" : "015867CF35F4BF0688267153456AC4B4"
+				},
+				{
+					"in_file_name" : "__wav.pck",
+					"file_name" : "__wav.pck",
+					"version_code" : "1",
+					"file_size" : 178852675,
+					"md5" : "70C1B932DC38AA3F68C475A4420F94A2"
+				}
+			]
+		}
+	]
+}
