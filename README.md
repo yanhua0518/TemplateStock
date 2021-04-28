@@ -9,7 +9,6 @@
 ### 安卓
 直接将Scene.pck复制到___EXTEND_SummerPockets_rb替换即可。  
 ### 越狱iOS
-#### 汉化补丁
 将Scene.pck复制到：  
 app文件共享\Documents\___EXTEND_SummerPockets_rb  
 **注意：**
