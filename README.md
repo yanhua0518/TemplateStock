@@ -23,17 +23,13 @@ app文件共享\Documents\___EXTEND_SummerPockets_rb
 
 ### 未越狱系统
 #### 方法1
-##### 双语补丁
 下载数据前，在梯子（一般都是小火箭）的配置文件中添加“URL重写”：  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/___DL.json 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck.hash 302  
-##### 反和谐
-在URL重写中添加以下配置：  
 ^http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/(.*) http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/$1 302  
 之后启动游戏下载数据。  
 **注意：**
- * 此方法反和谐和双语补丁可以只使用其中之一。
  * 使用此方法，每次启动游戏时需要断网或连着梯子，否则会恢复为原版。   
 
 #### 方法2
@@ -46,7 +42,6 @@ http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Sc
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck.hash 302  
 之后启动游戏下载数据。  
 **注意：**
- * 此方法会同时适用反和谐和双语补丁，不能单独用其中一个。  
  * 使用此方法后，不需要每次启动游戏断网或连梯子。但此操作不可逆！  
  * 若想恢复只能删除app（卸载app无效）重新下载。  
 
