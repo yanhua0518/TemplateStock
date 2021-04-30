@@ -40,3 +40,8 @@ http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Sc
  * 使用此方法后，不需要每次启动游戏断网或连梯子。但此操作不可逆！  
  * 若想恢复只能删除app（卸载app无效）重新下载。  
 
+## Shadowrocket（小火箭）添加URL重写的方法：
+打开小火箭，点下面“配置”  
+点击本地文件中打着√的配置文件（一般是default.conf），选编辑纯文本。  
+拉到最下面，看到[URL Rewrite]部分，  
+把要添加的配置整体复制下来，粘贴到后面。然后点保存。  
