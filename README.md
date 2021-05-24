@@ -4,7 +4,7 @@
  * 本补丁由【夏日纯臻汉化组】制作，翻译内容归汉化组所有。  
  * 本补丁仅供试用，不提供任何破解内容，请支持正版游戏。  
  * 严禁将本补丁用于商业用途，若因此触犯法律，本组不承担任何责任。  
- * 
+
 ## 使用方法：
 ### 安卓
 直接将Scene.pck复制到___EXTEND_SummerPockets_rb替换即可。  
@@ -35,6 +35,8 @@ http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Sce
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/___DLorg.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/___DL.json 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck.hash 302  
+http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__dat_patch_000.pck 302  
+http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__dat_patch_000.pck.hash 302  
 之后启动游戏下载数据。  
 **注意：**
  * 使用此方法后，不需要每次启动游戏断网或连梯子。但此操作不可逆！  
