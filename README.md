@@ -1,19 +1,19 @@
 # 《Summer Pockets REFLECTION BLUE手机版汉化补丁》
 
 ## 补丁说明：
- * 本补丁由【夏日纯臻汉化组】制作，翻译内容归汉化组所有。  
- * 本补丁仅供试用，不提供任何破解内容，请支持正版游戏。  
+ * 本补丁由【夏日纯臻汉化组】制作，所有剧情汉化，游戏界面未汉化。  
+ * 本补丁的翻译内容归汉化组所有，仅供试用，不提供任何破解内容，请支持正版游戏。  
  * 严禁将本补丁用于商业用途，若因此触犯法律，本组不承担任何责任。  
 
 ## 使用方法：
 ### 安卓
-直接将Scene.pck复制到___EXTEND_SummerPockets_rb替换即可。  
+直接将Scene.pck、__dat_patch_000.pck、__g00_patch_004.pck复制到___EXTEND_SummerPockets_rb替换即可。  
 ### 越狱iOS
-将Scene.pck复制到：  
+将Scene.pck、__dat_patch_000.pck、__g00_patch_004.pck复制到：  
 app文件共享\Documents\___EXTEND_SummerPockets_rb  
 **注意：**
  * 需要先正常下载完游戏数据后再替换！  
- * 只替换Scene.pck一个文件，其他文件是给未越狱iOS用的，不要替换！  
+ * 只替换这三个文件，其他文件是给未越狱iOS用的，不要替换！  
 #### 反和谐
 直接把安卓数据包内的__g00_patch_002.pck替换到iOS数据包里即可  
 
