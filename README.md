@@ -37,6 +37,8 @@ http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Sc
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck.hash 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__dat_patch_000.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__dat_patch_000.pck 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__dat_patch_000.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__dat_patch_000.pck.hash 302  
+http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__g00_patch_004.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__g00_patch_004.pck 302  
+http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__g00_patch_004.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__g00_patch_004.pck.hash 302  
 之后启动游戏下载数据。  
 **注意：**
  * 使用此方法后，不需要每次启动游戏断网或连梯子。但此操作不可逆！  
