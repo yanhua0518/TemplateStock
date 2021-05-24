@@ -23,6 +23,10 @@ app文件共享\Documents\___EXTEND_SummerPockets_rb
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/___DL.json 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck.hash 302  
+http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/__dat_patch_000.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__dat_patch_000.pck 302  
+http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/__dat_patch_000.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__dat_patch_000.pck.hash 302  
+http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/__g00_patch_004.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__g00_patch_004.pck 302  
+http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/__g00_patch_004.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__g00_patch_004.pck.hash 302 
 ^http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/(.*) http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/$1 302  
 之后启动游戏下载数据。  
 **注意：**
