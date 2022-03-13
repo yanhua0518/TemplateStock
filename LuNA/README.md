@@ -7,8 +7,10 @@
  * 严禁将本补丁用于商业用途，若因此触犯法律，本组不承担任何责任。  
 
 ## 使用方法：
-### 安卓
+### 安卓11以下
 将Scene.pck、__g00_patch_001.pck复制到“Android\data\jp.co.product.kn.lunaria\files\”内替换。  
+### 安卓11及以上
+使用 MT文件管理器、ZArchiver 等支持[SAF](https://developer.android.com/guide/topics/providers/document-provider?hl=zh-cn) api的文件管理器将Scene.pck、__g00_patch_001.pck复制到“Android\data\jp.co.product.kn.lunaria\files\”替换。  
 
 ### 越狱iOS
 将Scene.pck、__g00_patch_001.pck复制到“程序(用户)\LUNARiA\kn0020_kn_LUNARiA.app\”内替换。  
@@ -17,12 +19,13 @@
  * 安卓需要先正常下载完游戏数据后再替换！  
  * 只替换这两个文件，其他文件是给未root安卓用的，不要替换！  
 
-## 如果安卓无法进入data文件夹：
-在梯子或者其他工具添加“URL重写”：  
-
+## 未越狱IOS或无法访问Android\data的安卓
+在支持URl重写的工具中添加“URL重写”：  
+```
 http://cdn.anigema.jp/anigema/gamedata/agp0178.kn.lunaria/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/LuNA/___DL.json 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0178.kn.lunaria/dat/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/LuNA/Scene.pck 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0178.kn.lunaria/dat/__g00_patch_001.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/LuNA/__g00_patch_001.pck 302  
+```
 
 之后启动游戏下载数据。  
 **注意：**
