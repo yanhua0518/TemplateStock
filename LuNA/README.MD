@@ -8,9 +8,13 @@
 
 ## 使用方法：
 ### root安卓
-直接将Scene.pck、__g00_patch_001.pck复制到**Android\data\jp.co.product.kn.lunaria\files\**内替换。  
+直接将Scene.pck、__g00_patch_001.pck复制到
+**Android\data\jp.co.product.kn.lunaria\files\**
+内替换。  
 ### 越狱iOS
-将Scene.pck、__g00_patch_001.pck复制到**程序(用户)\LUNARiA\kn0020_kn_LUNARiA.app\**内替换。  
+将Scene.pck、__g00_patch_001.pck复制到
+**程序(用户)\LUNARiA\kn0020_kn_LUNARiA.app\**
+内替换。  
 **注意：**
  * 安卓需要先正常下载完游戏数据后再替换！  
  * 只替换这两个个文件，其他文件是给未root安卓用的，不要替换！  
