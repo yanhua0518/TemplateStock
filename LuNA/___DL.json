@@ -1,0 +1,100 @@
+{
+	"data_set" : [
+		{
+			"version_code" : 1,
+			"data" : [
+				{
+					"in_file_name" : "dat/1stop.mp4",
+					"file_name" : "1stop.mp4",
+					"version_code" : "1",
+					"file_size" : 67718789,
+					"md5" : "D2FFE33356182935D46782DA8354CE1D"
+				},
+				{
+					"in_file_name" : "dat/2ndop.mp4",
+					"file_name" : "2ndop.mp4",
+					"version_code" : "1",
+					"file_size" : 66493419,
+					"md5" : "5D1E62B5B3A8543F920C287833514F0B"
+				},
+				{
+					"in_file_name" : "dat/Gameexe.dat",
+					"file_name" : "Gameexe.dat",
+					"version_code" : "1",
+					"file_size" : 4479,
+					"md5" : "522D7CBBA77BAE4D297CAD6A18851D7C"
+				},
+				{
+					"in_file_name" : "dat/Scene.pck",
+					"file_name" : "Scene.pck",
+					"version_code" : "1",
+					"file_size" : 2507473,
+					"md5" : "38A444FACAA7F68F6A4F1EDDCD43C157"
+				},
+				{
+					"in_file_name" : "dat/__bgm.pck",
+					"file_name" : "__bgm.pck",
+					"version_code" : "1",
+					"file_size" : 59760788,
+					"md5" : "9D307060298E79079476FC0DE56B153F"
+				},
+				{
+					"in_file_name" : "dat/__dat.pck",
+					"file_name" : "__dat.pck",
+					"version_code" : "1",
+					"file_size" : 23599,
+					"md5" : "B2A4E797F58AE13A3B16BAE2502AD123"
+				},
+				{
+					"in_file_name" : "dat/__g00.pck",
+					"file_name" : "__g00.pck",
+					"version_code" : "1",
+					"file_size" : 471911514,
+					"md5" : "D526ECDCA68D80C40E90DF5768918606"
+				},
+				{
+					"in_file_name" : "dat/__g00_patch_000.pck",
+					"file_name" : "__g00_patch_000.pck",
+					"version_code" : "1",
+					"file_size" : 33434,
+					"md5" : "A347302A44BBEF1584EE8779FE8FB7D9"
+				},
+				{
+					"in_file_name" : "dat/__g00_patch_001.pck",
+					"file_name" : "__g00_patch_001.pck",
+					"version_code" : "1",
+					"file_size" : 5890768,
+					"md5" : "BCAC649B0919D3FADF6AF531637AF36E"
+				},
+				{
+					"in_file_name" : "dat/__gan.pck",
+					"file_name" : "__gan.pck",
+					"version_code" : "1",
+					"file_size" : 3666,
+					"md5" : "2ECF1BE9614CD7A670D2F5BF423EB3E1"
+				},
+				{
+					"in_file_name" : "dat/__koe.pck",
+					"file_name" : "__koe.pck",
+					"version_code" : "1",
+					"file_size" : 141374183,
+					"md5" : "097399A9CD8276A09E1C08DFB3E70F21"
+				},
+				{
+					"in_file_name" : "dat/__mov.pck",
+					"file_name" : "__mov.pck",
+					"version_code" : "1",
+					"file_size" : 94980839,
+					"md5" : "011AFE8329A8212E527731FC384EEB6C"
+				},
+				{
+					"in_file_name" : "dat/__wav.pck",
+					"file_name" : "__wav.pck",
+					"version_code" : "1",
+					"file_size" : 13002186,
+					"md5" : "3BDE2D51CB69DF0C3D47D51882CDD769"
+				}
+			]
+		}
+	]
+}
