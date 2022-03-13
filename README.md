@@ -7,8 +7,10 @@
  * 严禁将本补丁用于商业用途，若因此触犯法律，本组不承担任何责任。  
 
 ## 使用方法：
-### 安卓
+### 安卓11以下
 直接将Scene.pck、__dat_patch_000.pck、__g00_patch_004.pck复制到___EXTEND_SummerPockets_rb替换即可。  
+### 安卓11及以上
+使用 MT文件管理器、ZArchiver 等支持[SAF](https://developer.android.com/guide/topics/providers/document-provider?hl=zh-cn) api的文件管理器将Scene.pck、__dat_patch_000.pck、__g00_patch_004.pck复制到___EXTEND_SummerPockets_rb替换即可。  
 ### 越狱iOS
 将Scene.pck、__dat_patch_000.pck、__g00_patch_004.pck复制到：  
 app文件共享\Documents\___EXTEND_SummerPockets_rb  
