@@ -18,7 +18,7 @@
  * 只替换这两个文件，其他文件是给未root安卓用的，不要替换！  
 
 ## 未root安卓：
-在梯子的配置文件中添加“URL重写”：  
+在梯子或者其他工具添加“URL重写”：  
 
 http://cdn.anigema.jp/anigema/gamedata/agp0178.kn.lunaria/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/LuNA/___DL.json 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0178.kn.lunaria/dat/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/LuNA/Scene.pck 302  
@@ -26,4 +26,4 @@ http://cdn.anigema.jp/anigema/gamedata/agp0178.kn.lunaria/dat/__g00_patch_001.pc
 
 之后启动游戏下载数据。  
 **注意：**
- * 使用此方法，每次启动游戏时需要连着梯子，否则会恢复为原版。  
+ * 使用此方法，每次启动游戏时都需要URL重写，否则会恢复为原版。  
