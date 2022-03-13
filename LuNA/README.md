@@ -7,7 +7,7 @@
  * 严禁将本补丁用于商业用途，若因此触犯法律，本组不承担任何责任。  
 
 ## 使用方法：
-### root安卓
+### 安卓
 将Scene.pck、__g00_patch_001.pck复制到“Android\data\jp.co.product.kn.lunaria\files\”内替换。  
 
 ### 越狱iOS
@@ -17,7 +17,7 @@
  * 安卓需要先正常下载完游戏数据后再替换！  
  * 只替换这两个文件，其他文件是给未root安卓用的，不要替换！  
 
-## 未root安卓：
+## 如果安卓无法进入data文件夹：
 在梯子或者其他工具添加“URL重写”：  
 
 http://cdn.anigema.jp/anigema/gamedata/agp0178.kn.lunaria/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/LuNA/___DL.json 302  
