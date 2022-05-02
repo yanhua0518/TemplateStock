@@ -7,8 +7,10 @@
  * 严禁将本补丁用于商业用途，若因此触犯法律，本组不承担任何责任。  
 
 ## 使用方法：
-### 安卓
+### 安卓11以下
 直接将Scene.pck、__dat_patch_000.pck、__g00_patch_004.pck复制到___EXTEND_SummerPockets_rb替换即可。  
+### 安卓11及以上
+使用 MT文件管理器、ZArchiver 等支持[SAF](https://developer.android.com/guide/topics/providers/document-provider?hl=zh-cn) api的文件管理器将Scene.pck、__dat_patch_000.pck、__g00_patch_004.pck复制到___EXTEND_SummerPockets_rb替换即可。  
 ### 越狱iOS
 将Scene.pck、__dat_patch_000.pck、__g00_patch_004.pck复制到：  
 app文件共享\Documents\___EXTEND_SummerPockets_rb  
@@ -21,6 +23,7 @@ app文件共享\Documents\___EXTEND_SummerPockets_rb
 ## 未越狱iOS双语+反和谐：
 ### 方法1
 下载数据前，在梯子（一般都是小火箭）的配置文件中添加“URL重写”：  
+```
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/___DL.json 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/Scene.pck.hash 302  
@@ -29,11 +32,13 @@ http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.r
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/__g00_patch_004.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__g00_patch_004.pck 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/__g00_patch_004.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__g00_patch_004.pck.hash 302 
 ^http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.ios.rb/(.*) http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/$1 302  
+```
 之后启动游戏下载数据。  
 **注意：**
  * 使用此方法，每次启动游戏时需要断网或连着梯子，否则会恢复为原版。   
 ### 方法2
 下载数据前，在梯子的配置文件中添加“URL重写”：
+```
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/___DL.json https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/___DLorg.json 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/SceneOrg.pck 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/SceneOrg.pck.hash 302  
@@ -44,6 +49,7 @@ http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__dat_patch_000.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__dat_patch_000.pck.hash 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__g00_patch_004.pck https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__g00_patch_004.pck 302  
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__g00_patch_004.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__g00_patch_004.pck.hash 302  
+```
 之后启动游戏下载数据。  
 **注意：**
  * 使用此方法后，不需要每次启动游戏断网或连梯子。但此操作不可逆！  
